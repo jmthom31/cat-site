@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+.homepage-header h1 {
+  text-align: center;
+}
+
+.homepage-header h4 {
+  text-align: center;
+}
+
+.homepage-container {
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+  color: #D0E2F3;
+  padding-top: 5px;
+  height: 96vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.homepage-block {
+  margin-left: 5%;
+  margin-top: 6%;
+  width: 420px;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+.homepage-cat {
+  display: flex;
+  justify-content: center;
+}
+
+.homepage-cat img {
+  width: 400px;
+  border-radius: 5px;
+  height: 300px;
+}
